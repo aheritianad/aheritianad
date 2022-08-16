@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 
 -->
 
-<p align="center">
+<p align="right">
 <img scr="https://api.visitorbadge.io/api/VisitorHit?user=heritiana-aimsammi-sn2022&repo=heritiana-aimsammi-sn2022&countColor=%2308E8FF"/>
 </p>
