@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am `Heritiana`.
+I am `Heritiana Daniel`.
 
-Contact:
+Contacts:
 - [x] [linkedin](https://www.linkedin.com/in/aheritianad/)
 - [ ] [email]()
