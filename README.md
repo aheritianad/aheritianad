@@ -1,17 +1,11 @@
 ### Hi there 👋
 
-<!--
-Here are some ideas to get you started:
+I am `Heritiana`.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-
--->
+Contact:
+- [x] [linkedin](https://www.linkedin.com/in/aheritianad/)
+- [ ] [email]()
 
 <p align="right">
-<img scr="https://api.visitorbadge.io/api/VisitorHit?user=heritiana-aimsammi-sn2022&repo=heritiana-aimsammi-sn2022&countColor=%2308E8FF"/>
+<img scr="https://api.visitorbadge.io/api/VisitorHit?user=aheritianad&repo=aheritianad&countColor=%2308E8FF"/>
 </p>
